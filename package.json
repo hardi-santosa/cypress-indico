@@ -1,0 +1,19 @@
+{
+  "name": "cypress-indico",
+  "version": "1.0.0",
+  "description": "test indico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardi-santosa/cypress-indico.git"
+  },
+  "author": "hardi-santosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hardi-santosa/cypress-indico/issues"
+  },
+  "homepage": "https://github.com/hardi-santosa/cypress-indico#readme"
+}
